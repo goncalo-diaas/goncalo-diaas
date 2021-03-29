@@ -5,7 +5,7 @@
 
 ## More about me 🌐
 
-- [Gonçalo Dias Website](https://goncalodias.pt)
+- [Website](https://goncalodias.pt)
 
 ## ⚙️  GitHub Analytics
 
