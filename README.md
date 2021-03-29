@@ -6,7 +6,7 @@
 
 ## ⚙️  GitHub Analytics
 
-[![goncalo-diaas´s github stats](https://github-readme-stats.vercel.app/api?username=goncalo-dias&show_icons=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goncalo-dias&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goncalo-dias&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 👦 Social Media
 
