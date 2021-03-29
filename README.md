@@ -1,6 +1,8 @@
 # Hi there 👋
 
-- 💬 Ask me about Gaming and Web Development
+- 🎓 Student at [IPTA](http://ipta.pt).
+- 😍 Programming Enthusiast
+- 💼 Front-End Developer
 
 ## ⚙️  GitHub Analytics
 
