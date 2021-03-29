@@ -1,8 +1,8 @@
-# Hi there 👋
+# About me 😊
 
 - 🎓 Student at [IPTA](http://ipta.pt).
-- 😍 Programming Enthusiast
-- 💼 Front-End Developer
+- 🤩 Programming Enthusiast
+- 💻 Front-End Developer
 
 ## ⚙️  GitHub Analytics
 
