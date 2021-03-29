@@ -1,7 +1,7 @@
 # About me 😊
 
 - 🎓 Student at [IPTA](http://ipta.pt).
-- 💻 Web Dev
+- 💻 Noobie Front-End Developer
 
 ## More about me 🌐
 
