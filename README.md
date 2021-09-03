@@ -1,8 +1,7 @@
-<p align="center">
-# Gonçalo Dias
+<h1 align="center">Gonçalo Dias</h1>
 
-## Programming enthusiast passionated for Full Stack development for Web.
-</p>
+<h3 align="center">Programming enthusiast passionated for Full Stack development for Web.</h3>
+
 - 🎓 Student at [IPTA](http://ipta.pt).
 
 ## ⚙️  GitHub Analytics
