@@ -1,11 +1,9 @@
 # About me 😊
 
+Programming enthusiast passionated for Full Stack development for Web.
+
 - 🎓 Student at [IPTA](http://ipta.pt).
-- 💻 Noobie Front-End Developer
-
-## More about me 🌐
-
-- [Website](https://goncalodias.pt)
+- 💻 Web Developer
 
 ## ⚙️  GitHub Analytics
 
