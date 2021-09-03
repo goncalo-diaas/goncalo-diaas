@@ -1,7 +1,8 @@
+<p align="center">
 # Gonçalo Dias
 
 ## Programming enthusiast passionated for Full Stack development for Web.
-
+</p>
 - 🎓 Student at [IPTA](http://ipta.pt).
 
 ## ⚙️  GitHub Analytics
