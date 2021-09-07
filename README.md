@@ -1,6 +1,6 @@
 <h1 align="center">Gonçalo Dias</h1>
 
-<h4 align="center">Programming enthusiast passionated for Full Stack development for Web.</h4>
+Programming enthusiast passionated for Full Stack development for Web.
 
 -🎓 Student at [IPTA](http://ipta.pt).</h4>
 
