@@ -1,6 +1,6 @@
 <h1>🌍 Hello everyone, I am Gonçalo Dias 👋</h1>
 
-Programming enthusiast passionated for Web Development with with a great desire to learn more.
+Programming enthusiast passionated for Web Development with a great desire to learn more.
 
 🎓 Student at [IPTA](http://ipta.pt).</h4>
 <p><h1>⚡ Languages and Tools :</h1></p>
