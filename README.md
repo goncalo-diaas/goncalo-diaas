@@ -2,9 +2,9 @@
 
 Programming enthusiast passionated for Web Development with a great desire to learn more.
 
-<h3>🔥 Junior Web & Mobile Developer</h3>
-<h3><h3>🎓 Student at [IPTA](http://ipta.pt)</h3>
-<h3>⚡ Languages & Frameworks: PHP, Javascript, ReactJS, React Native</h3>
+<h5>🔥 Junior Web & Mobile Developer</h5>
+<h5>🎓 Student at [IPTA](http://ipta.pt)</h5>
+<h5>⚡ Languages & Frameworks: PHP, Javascript, ReactJS, React Native</h5>
 
 
 ## GitHub Analytics
