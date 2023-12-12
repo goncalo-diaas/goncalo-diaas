@@ -2,7 +2,7 @@
 
 Programming enthusiast passionated for Web Development with a great desire to learn more.
 
-<h4>🔥 Junior Web & Mobile Developer</h4>
+<h4>🔥 Full-Stack Developer</h4>
 <h4>⚡ Languages & Frameworks: PHP, Laravel, Javascript, NextJS, ReactJS, React Native</h4>
 
 
